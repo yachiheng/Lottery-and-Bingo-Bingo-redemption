@@ -1,0 +1,10 @@
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\LotteryAndBingox2.csproj.GenerateResource.cache
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\LotteryAndBingox2.csproj.CoreCompileInputs.cache
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+D:\個人作品DEMO\Lottery\WindowsFormsApp14\obj\Debug\LotteryAndBingox2.csprojAssemblyReference.cache
